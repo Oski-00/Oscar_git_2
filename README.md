@@ -15,7 +15,7 @@ Inicialmente, contamos con los siguientes archivos:
  - Bank-additional: es un archivo CSV con los datos en crudo. Estos datos hacen referencia a las campañas y contactos que ha realizado el banco con
    diferentes clientes.
 
- - Customer-details: es un archivo excel con los datos en crudo. El archivo hace referencia a los datos personales de varios clientes.
+ - Customer-details: es un archivo excel con los datos en crudo. El archivo hace referencia a los datos personales de varios clientes y el número de visitas que realizan a una web.
 
 Una vez realizado el análisis sobre estos archivos iniciales, tenemos los siguientes archivos para evaluar:
 
