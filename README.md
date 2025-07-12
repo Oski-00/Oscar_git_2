@@ -91,3 +91,50 @@ En esta ocasión, comienzo con el análisis de los valores nulos. Siguiendo el m
 
 <img width="684" height="87" alt="image" src="https://github.com/user-attachments/assets/d98d7159-42a5-4a1e-a55d-adf9d92692d3" />
 
+
+Posteriormente comienzo a convertir los datos de las columnas a valores numéricos exceto la columna de id, que la dejo sin modificar para mantenerla como referencia de identificación, y realizao un resumen general de los datos.
+
+<img width="772" height="338" alt="image" src="https://github.com/user-attachments/assets/d274cea4-1c4f-404c-8ae5-2c7e3040e7c5" />
+
+Una vez modificado los datos, procedo a realizar el análisis de los mismos mediante diferentes gráficos que guardo en una carpeta a parte para no sobrecargar el script.
+
+
+<img width="821" height="429" alt="image" src="https://github.com/user-attachments/assets/821c9b98-cd9a-475d-b71e-1ae9490f6ac8" />
+
+
+<img width="825" height="300" alt="image" src="https://github.com/user-attachments/assets/2be297ed-e405-465f-ad99-cddf117329e5" />
+
+
+<img width="886" height="330" alt="image" src="https://github.com/user-attachments/assets/79397b17-1efa-454e-bcb8-c676c9bd3133" />
+
+
+Una vez realizados estos gráficos, guardamos el análisis.
+
+
+# 3. Instalación y requisitos.
+
+Para la realización de este proyecto, he utilizado las siguientes herramientas:
+
+- Archivo CSV y Excel dados para analizar.
+
+- Visual Studio Code, con la instalación de las siguientes librerías:
+
+    -- Para el archivo "bank-additional":
+
+    <img width="304" height="99" alt="image" src="https://github.com/user-attachments/assets/29a5c26b-2bbb-4227-a5ae-e436e6025c44" />
+
+
+    -- Para el archivo "customer-details":
+
+    <img width="338" height="105" alt="image" src="https://github.com/user-attachments/assets/8dbbbcbb-7bcd-4247-a884-21531646266c" />
+
+
+# 4. Contribuciones y autor.
+
+Cualquier tipo de contribución a este trabajo es bienvenida para mejorarlo en todo lo posible.
+
+Óscar Pérez Chico
+
+<img width="174" height="33" alt="image" src="https://github.com/user-attachments/assets/a1edacb1-e22d-467e-96e9-2142379615d1" />
+
+
